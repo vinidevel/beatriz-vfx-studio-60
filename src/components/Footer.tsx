@@ -15,7 +15,7 @@ const Footer = () => {
             <p className="text-sm text-muted-foreground">
               Desenvolvido por{" "}
               <span className="font-semibold bg-gradient-primary bg-clip-text text-transparent">
-                Lovable Studio
+                RV - Technologic
               </span>
             </p>
           </div>

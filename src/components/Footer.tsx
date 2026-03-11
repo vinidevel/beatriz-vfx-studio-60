@@ -14,7 +14,7 @@ const Footer = () => {
           <div className="text-center md:text-right">
             <p className="text-sm text-muted-foreground">
               Desenvolvido por{" "}
-              <span className="font-semibold bg-gradient-primary bg-clip-text text-transparent">
+              <span className="font-semibold bg-gradient-rv-technologic bg-clip-text text-transparent">
                 RV - Technologic
               </span>
             </p>

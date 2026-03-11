@@ -48,6 +48,7 @@ All colors MUST be HSL.
     --gradient-primary: linear-gradient(135deg, hsl(322 84% 60%), hsl(280 90% 65%));
     --gradient-secondary: linear-gradient(135deg, hsl(195 92% 58%), hsl(280 90% 65%));
     --gradient-accent: linear-gradient(135deg, hsl(25 95% 60%), hsl(322 84% 60%));
+    --gradient-rv-technologic: linear-gradient(135deg, hsl(195 92% 58%), hsl(226, 93%, 50%));
     
     /* Shadows with glow */
     --glow-primary: 0 0 40px hsl(322 84% 60% / 0.4);
